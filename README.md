@@ -10,5 +10,5 @@ node and npm
 
 ## Build & development
 run 'npm install'
-run ' email=<email> password= <password> npm start'
+run ' email={{email}} password= {{password}} npm start'
 where email and password are used to send the notifications to the users.
